@@ -1,0 +1,120 @@
+
+<!DOCTYPE html>
+<head>
+<title></title>
+</head>
+<body>
+<div id="header">
+<p id="name">Md.Walid Khan Masud</p>
+         <a href="masudkhan73851@gmail.com" target="_blank"><p id="email">masudkhan73851@gmail.com</p></a>
+         <p id="contact">Id: 182482024</p>
+		 <p id="contact">Ph: ++8801745242108</p>
+     </div>
+     <div class="left">
+     </div>
+     <div class="right">
+            <h3>CV Highlights</h3>
+            <p>
+            <ul>
+                <li>Currently going through CS253 – Web Application Engineering and CS61A – Structure & Interpretation of Computer Programs</li>
+                <li>Learnt basic Python, JavaScript, HTML, CSS on Codecademy.com.</li>
+                <li>An independent, dedicated, efficient person. These attributes are proved through the series of courses I have taken or I am taking as of now independently through online platforms.</li>
+                <li>Good Communication Skills, Presentation Skills, attitude towards leadership, authorisation and delegation, conflict resolution and negotiation and a very good team worker.</li></ul>
+            </p>
+            <h3>Professional Experience</h3>
+            <h4 id="company-name">Finite Pvt Ltd</h4>
+            <p id="job-title"><strong>Support Engineer (Technical Support)</strong></p>
+            <p id="job-responsibilities">Job Responsbilities</p>
+            <p>
+            <ul>
+                <li>Answer customer queries over email / ticketing system</li>
+                <li>Interact with our engineering team to get software issues and bugs resolved</li>
+                <li>Occasionally interact with customers over Skype or telephone</li>
+                <li>Contribute ideas to the team on how customers can be delighted</li></ul>
+            </p>
+            <h3>Educational Qualifications</h3>
+            <table>
+                <tr id="heading">
+                    <td>Qualification</td>
+                    <td>Board</td>
+                    <td>Percentage / Grades</td>
+                    <td>Year</td>
+                </tr>
+                <tr>
+                    <td>S.S.C</td>
+                    <td>Dighulia Shahid Mizanur Rahman High School</td>
+                    <td>4.94</td>
+                    <td>2011</td>
+                </tr>
+                <tr>
+                    <td>Diploma In Engineering</td>
+                    <td>Haji Abul Hossain Institute Of Technology, Tangail</td>
+                    <td> 3.87</td>
+                    <td>2018</td>
+                </tr>
+            </table>
+            <h3>Independent Courses</h3>
+            <p>
+            <ul>
+                <li>
+                <span id="course-name">HTML & CSS for Beginners – Web Fundamentals</span> – Codecademy.com</li>
+                <li>
+                <span id="course-name">Python – Fundamentals and Dynamic Programming </span> - Codecademy.com</li>
+                <li>
+                <span id="course-name">JavaScript – Programming Basics, JS Apps and Build Games </span> - Codecademy.com</li>
+                <li>
+                <span id="course-name">CS101: Introduction to Computer Science - Building a Web Crawler</span> - Udacity.com</li>
+                <li>
+                <span id="course-name">CS50x – Introduction to Computer Science I</span> – edX.org & Harvard University</li>
+                <li>
+                <span id="course-name">Calculus One</span> - Ohio State University & Coursera.org</li>
+                <li>
+                <span id="course-name">Introduction to Finance</span> - Coursera.org & University of Michigan</li>
+            </ul>
+            <h3>Technical Skills</h3>
+            <p>
+            <ul>
+                <li>
+                <span id="course-name">Operating Systems:</span> DOS, Windows 98, Windows 2000, Windows XP, Windows NT, Windows Server 2003, Windows Vista, Windows 7, Macintosh Computers (OS X), Linux (Ubuntu, Fedora)</li>
+                <li>
+                <span id="course-name">Application Software:</span> Office 97-2003; Office XP, Office 2007, Office for Mac 2011, iWork ’09, Sage Accounting Software, Sage 50 (Accounting Software), Excel 2003/2007 for Financial Modelling spreadsheets.</li>
+                <li>
+                <span id="course-name">Programming Skills:</span>HTML, CSS, Python, JavaScript, learning C and C++</li></ul>
+            </p>
+            <h3>Personal Information:</h3>
+            <p>
+            <ul>
+                <li>
+                Name : Md. Walid Khan Masud.
+                <li>
+                <span id="course-name">Father’s Name:</span>Md. Anwar Khan</li>
+                <li>
+                <span id="course-name">Mother’s Name:</span> Begum Runi Akier.</li>  
+				<span id="course-name">Date of birth:</span> 15th Octorber 1997.</li>  
+				<span id="course-name">Permanent Address:</span> Begum Runi AkierVill.- Bathuli Sady, P.O.- Bathuli Sady,
+  	             P.S.- Basail, Dist.- Tangail.</li>  
+				<span id="course-name">Sex:</span>Male.</li>  
+				<span id="course-name">Nationality:</span> Bangladeshi (By birth).</li>  
+				    <span id="course-name">Religion:</span> Islam.</li>  
+					 <span id="course-name">Blood Group	:</span>( AB- ).</li> </ul>
+					 </p>
+            <h3>Language Proficiency</h3>
+            <p>
+            <ul>
+			<span id="course-name">Fluently conversation in English & Bengali.</li> </ul>
+            </p>
+            <h3>Other Information</h3>
+            <p>
+            <ul>
+                <li>
+                <span id="course-name">Habits<span>Social Work, Gardening & Traveling</li>
+                <li>
+                <span id="course-name">Indoor Games :</span>Having Good Sportsmanship</li></ul>
+            </p>
+            <h3>Declaration</h3>
+            <p>
+            I hereby declare that the details furnished above are true and correct to the best of my knowledge and belief.</p>
+     </div>
+     <div id="footer"></div>
+    </body>
+</html> 
